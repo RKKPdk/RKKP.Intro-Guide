@@ -7,8 +7,9 @@ I dette repo har vi alle dokumenter liggende vedrørende f.eks:
 - Good practise 
 etc
 
-### Ekstra stuff
--Example opgaver:
+Ekstra stuff
+<br>
+Example opgaver:
 1) First repo, first commit 
 2) Branches 
 3) etc
