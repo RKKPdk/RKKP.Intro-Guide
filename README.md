@@ -1,10 +1,10 @@
 # Intro-Guide
 I dette repo har vi alle dokumenter liggende vedrørende f.eks:
 
--Intro Github
--Merge/Conflict håndtering
--Teams 
--Good practise 
+- Intro Github
+- Merge/Conflict håndtering
+- Teams 
+- Good practise 
 etc
 
 Ekstra stuff
